@@ -28,4 +28,4 @@ Lint Taste sem falhas ou avisos. Inspeção real em Chrome a 1440, 768 e 390px, 
 
 ## Estado do envio
 
-A pasta foi recebida com Git inicializado, sem commits e sem remoto. Em 22/10/2026, a consulta SSH ao destino `LeandroPivovar/paulin-auto-center-13077db647` retornou `Repository not found`. O conector disponível não oferece criação de repositórios, e não há sessão autenticada utilizável no navegador ou credencial HTTPS para criá-lo. Commit local preparado; push depende de o repositório ser criado ou de um remoto existente ser disponibilizado. Não há deploy Vercel confirmado.
+Repositório remoto criado pelo usuário e confirmado por SSH: `LeandroPivovar/paulin-auto-center-13077db647`. Branch de publicação: `main`. A configuração está pronta para importar na Vercel; não há deploy Vercel confirmado.
